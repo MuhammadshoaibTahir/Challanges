@@ -1,0 +1,31 @@
+#1- we check in a patient named John Smith. He is 20 years old and is a new patient.
+#2- Ask two questions: person's name and favorite color. Then, print a message like "(name) likes (color)"
+#3- Ask birth year and then print age
+#4- Ask a user their weight (in pounds), convert it to kilogram and print on the terminal.
+#5-
+If it's hot 
+it's a hot day
+Drink plenty of water
+otherwise if it's cold
+it's a cold day
+wear warm clothes
+otherwise
+it's a lovely day
+#6- House price = $1M, if buyer has a good credit, they need to put down 10% down payment otherwise 20%    
+#7- if applicant has high income and good credit (eligible for loan) otherwise (not)
+#8- If temperature is greater than 30
+it's a hot day
+otherwise if it's less than 10
+it's a cold day
+otherwise
+it's neither hot nor cold
+#9- If name is less than 3 characters long, name must be at least 3 characters
+otherwise if it's more than 50 characters long, name can be a maximum of 50 characters
+otherwise, name looks good!
+#10- Ask user their weight and then convert it into Kg or lbs and then print it on terminal
+#11- Guess game (secret number 9)
+#12- Car game
+#13- find the total cost of imaginary items using for loop [10, 20, 30]
+#14- Nested loop (any example)
+#15- write a code which convert phone number 1234 into one two three four
+#16- print even numbers only
